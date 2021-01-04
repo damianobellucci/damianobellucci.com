@@ -1,0 +1,6 @@
+.avatar {
+  margin: 1em auto;
+  max-width: 30%;
+  border-radius: 50%;
+  border: solid 4px #ffae00;
+}
